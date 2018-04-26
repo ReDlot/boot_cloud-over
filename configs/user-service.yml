@@ -1,0 +1,4 @@
+feign:
+  hytrix:
+    enabled: true
+test: hahaha
